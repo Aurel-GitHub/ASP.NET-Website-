@@ -35,3 +35,7 @@ C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\JohnDo
 C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\JohnDoe.WebSite.pdb
 C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\JohnDoe.WebSite.genruntimeconfig.cache
 C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\JohnDoe.WebSite.csproj.CopyComplete
+C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\JohnDoe.WebSite.RazorComponent.input.cache
+C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\RazorDeclaration\JohnDoe.WebSite.dll
+C:\Users\MOI\source\repos\JohnDoe\JohnDoe.WebSite\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs

@@ -1,13 +1,21 @@
 [
-
   {
     "Id": "cobol",
     "Maker": "zdnet",
     "img": "https://miro.medium.com/max/1400/1*HyGwWABsk9likhgSGfn1Sg.jpeg",
     "Url": "https://www.zdnet.fr/actualites/cobol-fete-ses-60-ans-pourquoi-il-nous-enterrera-tous-39890193.htm",
     "Title": "COBOL fete ses 60 ans: pourquoi il nous enterrera tous",
-    "Description": "Au commencement, il y avait les langages machine et l'assembleur. Ce n'etait pas facile a utiliser, mais COBOL est arrive, et tout a change.",
-    "Ratings": null
+    "Description": "Au commencement, il y avait les langages machine et l\u0027assembleur. Ce n\u0027etait pas facile a utiliser, mais COBOL est arrive, et tout a change.",
+    "Ratings": [
+      5,
+      5,
+      5,
+      5,
+      3,
+      3,
+      5,
+      1
+    ]
   },
   {
     "Id": "python-reste-en-tete",
@@ -15,7 +23,7 @@
     "img": "https://user-images.githubusercontent.com/41929050/61567054-13938600-aa33-11e9-9163-eec98e239b7a.png",
     "Url": "https://www.zdnet.fr/actualites/programmation-python-reste-en-tete-39890391.htm",
     "Title": "Programmation : Python reste en tete",
-    "Description": "Python conserve sa première place en tant que langage le plus populaire pour les ingenieurs dans le classement des logiciels de programmation IEEE Spectrum.",
+    "Description": "Python conserve sa premi\uFFFDre place en tant que langage le plus populaire pour les ingenieurs dans le classement des logiciels de programmation IEEE Spectrum.",
     "Ratings": null
   },
   {
@@ -33,8 +41,18 @@
     "img": "https://blog.cellenza.com/wp-content/uploads/2017/01/PowerShell_5.0_icon.png",
     "Url": "https://www.zdnet.fr/actualites/microsoft-powershell-7-est-disponible-pour-de-nouvelles-plateformes-39900201.htm",
     "Title": "Microsoft : PowerShell 7 est disponible pour de nouvelles plateformes",
-    "Description": "La derniere version de l'outil d'automatisation de Microsoft pour Windows, MacOS et Linux est disponible. Voici ce que contient PowerShell 7 et ce qui suivra.",
-    "Ratings": null
+    "Description": "La derniere version de l\u0027outil d\u0027automatisation de Microsoft pour Windows, MacOS et Linux est disponible. Voici ce que contient PowerShell 7 et ce qui suivra.",
+    "Ratings": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ]
   },
   {
     "Id": "python-sur-android",
@@ -42,8 +60,10 @@
     "img": "https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/02/Langage%20programmation%20620__w630.jpg",
     "Url": "https://www.zdnet.fr/actualites/les-applications-en-python-pourraient-bientot-fonctionner-sur-android-39903609.htm",
     "Title": "Les applications en Python pourraient bientot fonctionner sur Android",
-    "Description": "Les developpeurs Python font pression pour que les applications ecrites en Python s'executent sur les appareils mobiles, mais de gros obstacles subsistent.",
-    "Ratings": null
+    "Description": "Les developpeurs Python font pression pour que les applications ecrites en Python s\u0027executent sur les appareils mobiles, mais de gros obstacles subsistent.",
+    "Ratings": [
+      5
+    ]
   },
   {
     "Id": "Langages-les-moins-sur",
@@ -51,7 +71,7 @@
     "img": "https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/02/Langage%20programmation%20620__w630.jpg",
     "Url": "https://www.zdnet.fr/actualites/quels-sont-les-langages-les-moins-surs-39882563.htm",
     "Title": "Quels sont les langages les moins surs ?",
-    "Description": "L'examen des erreurs commises dans differents langages de programmation par WhiteSource revele les langages qui presentent le plus de failles de securite. Le gagnant? C. Mais ce n'est que le debut de l'histoire. ",
+    "Description": "L\u0027examen des erreurs commises dans differents langages de programmation par WhiteSource revele les langages qui presentent le plus de failles de securite. Le gagnant? C. Mais ce n\u0027est que le debut de l\u0027histoire. ",
     "Ratings": null
   },
   {
@@ -60,8 +80,10 @@
     "img": "https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2019/02/5G%20Pro%20620.jpg",
     "Url": "https://www.zdnet.fr/actualites/java-php-ou-net-les-langages-de-programmation-rapportent-toujours-39884547.htm",
     "Title": "Java, PHP ou .Net, les langages de programmation rapportent toujours",
-    "Description": "La programmation n'a pas fini de faire rever. Dans le secteur, les niveaux de salaires ont en effet augmente de 1,7 % en 2018, comme l'a releve la societe de services Reed Technology.",
-    "Ratings": null
+    "Description": "La programmation n\u0027a pas fini de faire rever. Dans le secteur, les niveaux de salaires ont en effet augmente de 1,7 % en 2018, comme l\u0027a releve la societe de services Reed Technology.",
+    "Ratings": [
+      3
+    ]
   },
   {
     "Id": "python-depasse-java",
@@ -77,10 +99,8 @@
     "Maker": "zdnet",
     "img": "https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/02/SpaceX%20620__w630.jpg",
     "Url": "https://www.zdnet.fr/actualites/de-la-terre-a-l-espace-avec-linux-et-spacex-39904633.htm",
-    "Title": "De la Terre a l'espace avec Linux et SpaceX",
-    "Description": "La fusee Falcon 9 de SpaceX, qui a emmene les astronautes de la NASA Bob Behnken et Doug Hurley a la station spatiale internationale, est alimentee par de l'oxygene liquide, du kerosene... et Linux.",
+    "Title": "De la Terre a l\u0027espace avec Linux et SpaceX",
+    "Description": "La fusee Falcon 9 de SpaceX, qui a emmene les astronautes de la NASA Bob Behnken et Doug Hurley a la station spatiale internationale, est alimentee par de l\u0027oxygene liquide, du kerosene... et Linux.",
     "Ratings": null
   }
-
-
 ]
